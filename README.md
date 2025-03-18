@@ -34,10 +34,10 @@ I'm a **Computer Science** student with a passion for **Java, databases, and web
 ## 📫 Let's Connect!
 <p align="left">
   <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40">
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="40" height="40">
   </a>
   <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/mail.png" alt="Email" width="40" height="40">
+    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email" width="40" height="40">
   </a>
 </p>
 
