@@ -5,12 +5,13 @@ I'm a **Computer Science** student with a passion for **Java, JavaFX, databases,
 
 
 ## Languages and Tools:
-<a href="https://www.java.com/" target="_blank"><img src="https://simpleicons.org/icons/java.svg" alt="Java" width="40" height="40"></a>
-<a href="https://openjfx.io/" target="_blank"><img src="https://simpleicons.org/icons/java.svg" alt="JavaFX" width="40" height="40"></a>
-<a href="https://gluonhq.com/products/scene-builder/" target="_blank"><img src="https://simpleicons.org/icons/java.svg" alt="Scene Builder" width="40" height="40"></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://simpleicons.org/icons/postgresql.svg" alt="SQL" width="40" height="40"></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://simpleicons.org/icons/python.svg" alt="Python" width="40" height="40"></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img src="https://simpleicons.org/icons/tensorflow.svg" alt="Machine Learning" width="40" height="40"></a>
+<a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" alt="Java" width="40" height="40"></a>
+<a href="https://openjfx.io/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" alt="JavaFX" width="40" height="40"></a>
+<a href="https://gluonhq.com/products/scene-builder/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" alt="Scene Builder" width="40" height="40"></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" alt="SQL" width="40" height="40"></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="40" height="40"></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tensorflow.svg" alt="Machine Learning" width="40" height="40"></a>
+
 
 ## 📫 Let's Connect!
 - 💼 **GitHub:** [github.com/your-username](https://github.com/your-username)
