@@ -36,7 +36,7 @@ I'm a **Computer Science** student with a passion for **Java, databases, and web
   <a href="https://www.linkedin.com/in/ayman-alqayem-9012a232a/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40">
   </a>
-  <a href="mailto:nabilayman021.com" target="_blank">
+  <a href="mailto:nabilayman021@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/email.png" alt="Email" width="40" height="40">
   </a>
 </p>
