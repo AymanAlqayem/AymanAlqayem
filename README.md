@@ -3,20 +3,22 @@
 ## 🚀 About Me
 I'm a **Computer Science** student with a passion for **Java, JavaFX, databases, and machine learning**. I love tackling complex problems, designing efficient solutions, and building interactive applications.
 
-## 🛠 Tech Stack & Skills
-- **Languages:** Java, Python, SQL, Assembly (Emulator 8086)
-- **Frameworks & Tools:** JavaFX (Scene Builder, JFoenix), Android Studio, IntelliJ, MySQL
-- **Database Design:** ER Modeling, SQL Optimization, Data Structures
-- **Machine Learning:** Decision Trees (Entropy, Information Gain, Gain Ratio), Convolutional Neural Networks (CNNs - CIFAR-10)
-- **Game Development:** JavaFX-based two-player strategy games
-- **Steganography:** LSB with Zig-Zag Distribution
 
-## 📌 Notable Projects
-🔹 **Coffee Shop Management System** (JavaFX, MySQL) - A full-fledged POS system with inventory management and billing features.  
-🔹 **Image Steganography** (Java) - Implemented LSB and Zig-Zag Distribution for secure data hiding in images.  
-🔹 **Machine Learning Classifier** (Python) - Built a Decision Tree from scratch, optimizing information gain and gain ratio.  
-🔹 **Interactive World Map** (JavaFX) - Drag-and-drop country placement based on latitude and longitude.  
-🔹 **Coin Game** (JavaFX) - A two-player game where players choose coins with strategic moves and real-time score updates.
+## Languages and Tools:
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+- ![JavaFX](https://img.shields.io/badge/JavaFX-FF5722?style=for-the-badge&logo=javafx&logoColor=white)  
+- ![Scene Builder](https://img.shields.io/badge/Scene%20Builder-2196F3?style=for-the-badge&logo=javafx&logoColor=white)  
+- ![SQL](https://img.shields.io/badge/SQL-003087?style=for-the-badge&logo=postgresql&logoColor=white)  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style-for-the-badge&logo=python&logoColor=white)  
+- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF9800?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+## Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- [Facebook](https://www.facebook.com/yourprofile)  
+- [Instagram](https://www.instagram.com/yourprofile)
+
+
+
 
 ## 📫 Let's Connect!
 - 💼 **GitHub:** [github.com/your-username](https://github.com/your-username)
