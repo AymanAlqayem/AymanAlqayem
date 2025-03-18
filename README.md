@@ -32,8 +32,13 @@ I'm a **Computer Science** student with a passion for **Java, databases, and web
 </p>
 
 ## 📫 Let's Connect!
-- 💼 **GitHub:** [github.com/your-username](https://github.com/your-username)
-- 📧 **Email:** your.email@example.com
-- 🔗 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+<p align="left">
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.icons8.com/ios/50/000000/email.png" alt="Email" width="40" height="40">
+  </a>
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40">
+  </a>
+</p>
 
 🌟 **Passionate about building, learning, and sharing knowledge!**
