@@ -5,12 +5,12 @@ I'm a **Computer Science** student with a passion for **Java, JavaFX, databases,
 
 
 ## Languages and Tools:
-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-- ![JavaFX](https://img.shields.io/badge/JavaFX-FF5722?style=for-the-badge&logo=javafx&logoColor=white)  
-- ![Scene Builder](https://img.shields.io/badge/Scene%20Builder-2196F3?style=for-the-badge&logo=javafx&logoColor=white)  
-- ![SQL](https://img.shields.io/badge/SQL-003087?style=for-the-badge&logo=postgresql&logoColor=white)  
-- ![Python](https://img.shields.io/badge/Python-3776AB?style-for-the-badge&logo=python&logoColor=white)  
-- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF9800?style=for-the-badge&logo=tensorflow&logoColor=white)
+<a href="https://www.java.com/" target="_blank"><img src="https://simpleicons.org/icons/java.svg" alt="Java" width="40" height="40"></a>
+<a href="https://openjfx.io/" target="_blank"><img src="https://simpleicons.org/icons/java.svg" alt="JavaFX" width="40" height="40"></a>
+<a href="https://gluonhq.com/products/scene-builder/" target="_blank"><img src="https://simpleicons.org/icons/java.svg" alt="Scene Builder" width="40" height="40"></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://simpleicons.org/icons/postgresql.svg" alt="SQL" width="40" height="40"></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://simpleicons.org/icons/python.svg" alt="Python" width="40" height="40"></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://simpleicons.org/icons/tensorflow.svg" alt="Machine Learning" width="40" height="40"></a>
 
 ## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)  
