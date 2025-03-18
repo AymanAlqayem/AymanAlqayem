@@ -34,10 +34,10 @@ I'm a **Computer Science** student with a passion for **Java, databases, and web
 ## 📫 Let's Connect!
 <p align="left">
   <a href="https://www.linkedin.com/in/ayman-alqayem-9012a232a/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ayman Alqayem" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ayman Alqayem" height="30" width="40" style="display: inline-block;" />
   </a>
   <a href="mailto:nabilayman021@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/email.png" alt="Email" width="40" height="40">
+    <img src="https://img.icons8.com/fluency/48/000000/email.png" alt="Email" width="40" height="40" style="display: inline-block;" />
   </a>
 </p>
 
