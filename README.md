@@ -18,7 +18,7 @@ I'm a **Computer Science** student with a passion for **Java, databases, and web
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40">
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Git-logo.svg" alt="Git" width="40" height="40">
+    <img src="https://img.icons8.com/ios/50/000000/git.png" alt="Git" width="40" height="40">
   </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="40" height="40">
