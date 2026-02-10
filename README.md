@@ -13,8 +13,6 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 </div>
 
 ## 🚀 About Me
@@ -37,8 +35,6 @@ My approach combines strong fundamentals in software engineering with practical 
 - 🎯 Contributing to open-source projects
 - 💡 Sharing knowledge with the developer community
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🛠️ Technical Skills
 
 ### Languages
@@ -60,8 +56,6 @@ My approach combines strong fundamentals in software engineering with practical 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,linux" alt="DevOps" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💼 Core Competencies
 
@@ -107,8 +101,6 @@ My approach combines strong fundamentals in software engineering with practical 
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🎯 Areas of Interest
 
 <div align="center">
@@ -123,15 +115,12 @@ My approach combines strong fundamentals in software engineering with practical 
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 📊 GitHub Contributions
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📫 Let's Connect
 
