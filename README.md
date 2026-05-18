@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Ayman Alqayem" width="280" style="border-radius:50%" src="https://raw.githubusercontent.com/AymanAlqayem/AymanAlqayem/main/a.jpeg">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 I'm a **Backend Developer** focused on building **scalable, real-world systems** with clean architecture principles. I specialize in designing and implementing robust REST APIs, integrating AI and LLM technologies, and creating maintainable backend solutions.
 
