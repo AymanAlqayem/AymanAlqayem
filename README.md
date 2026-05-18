@@ -2,7 +2,7 @@
 
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ayman Alqayem
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Spring+Boot+Specialist+%E2%98%95;Database+Architect+%F0%9F%97%84%EF%B8%8F;Building+Scalable+Systems+%F0%9F%8C%90;Always+Learning+%26+Growing+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Spring+Boot+Specialist+%E2%98%95;AI+%26+LLM+Integration+%F0%9F%A4%96;Building+Scalable+Systems+%F0%9F%8C%90;Always+Learning+%26+Growing+%F0%9F%93%9A" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/ayman-alqayem-9012a232a/" target="_blank">
@@ -19,21 +19,20 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-I'm a **Computer Science student** and **Backend Developer** focused on building **scalable, production-ready systems** with clean architecture principles. I specialize in designing and implementing robust REST APIs, optimizing database performance, and creating maintainable backend solutions.
+I'm a **Backend Developer** focused on building **scalable, real-world systems** with clean architecture principles. I specialize in designing and implementing robust REST APIs, integrating AI and LLM technologies, and creating maintainable backend solutions.
 
 My approach combines strong fundamentals in software engineering with practical experience in modern backend technologies. I'm passionate about solving complex problems, writing clean code, and continuously improving system performance and reliability.
 
 **Currently focusing on:**
 - 🔨 Building microservices with Spring Boot
+- 🤖 Integrating AI and LLM technologies into real-world systems
 - 📚 Deepening knowledge in system design and distributed architectures
 - 🌐 Exploring event-driven architectures and message queues
-- ☁️ Learning cloud-native development practices
 - 🔒 Implementing secure authentication and authorization systems
 
 **Beyond coding:**
 - 📖 Studying software architecture patterns and best practices
-- 🎯 Contributing to open-source projects
-- 💡 Sharing knowledge with the developer community
+- 🎯 Working on personal projects that solve real problems
 
 ## 🛠️ Technical Skills
 
@@ -49,7 +48,7 @@ My approach combines strong fundamentals in software engineering with practical 
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" alt="Databases" />
 </p>
 
 ### DevOps & Tools
@@ -77,11 +76,11 @@ My approach combines strong fundamentals in software engineering with practical 
 
 ### 🗄️ Database Engineering
 - Relational database design (MySQL, PostgreSQL)
+- NoSQL databases (MongoDB, Redis)
 - Query optimization & performance tuning
 - Data modeling & normalization
 - Transaction management
 - Indexing strategies
-- SQL & stored procedures
 - Database migration & versioning
 
 </td>
@@ -109,9 +108,9 @@ My approach combines strong fundamentals in software engineering with practical 
 |:---:|:---:|:---:|
 | Scalable architectures<br>Load balancing<br>Caching strategies | Performance tuning<br>Query optimization<br>Indexing strategies | Authentication<br>Authorization<br>Secure API design |
 
-| 📡 Event-Driven Architecture | 🧪 Testing | 🎯 Clean Architecture |
+| 🤖 AI & LLM Integration | 🧪 Testing | 🎯 Clean Architecture |
 |:---:|:---:|:---:|
-| Message queues<br>Async processing<br>Event sourcing | Unit testing<br>Integration testing<br>TDD practices | SOLID principles<br>Design patterns<br>Maintainable code |
+| LLM API integration<br>Prompt engineering<br>AI-powered systems | Unit testing<br>Integration testing<br>TDD practices | SOLID principles<br>Design patterns<br>Maintainable code |
 
 </div>
 
@@ -120,7 +119,6 @@ My approach combines strong fundamentals in software engineering with practical 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
 
 ## 📫 Let's Connect
 
@@ -139,7 +137,7 @@ I'm always open to discussing new opportunities, collaborations, or interesting 
   </a>
 </p>
 
-### ✨ *"Building robust backend systems with clean code and solid architecture."* ✨
+### ✨ *"Backend Engineer passionate about building systems that scale and AI solutions that matter."* ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
