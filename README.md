@@ -134,13 +134,15 @@ I'm always open to discussing new opportunities, collaborations, or interesting 
 
 <p>
   <a href="https://ayman-alqayem.me/" target="_blank">
-    <img src="https://img.icons8.com/color/48/portfolio.png" alt="Portfolio" width="50" height="50">
+    <img src="https://img.icons8.com/fluency/48/portfolio.png" alt="Portfolio" width="45" height="45">
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ayman-alqayem-9012a232a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="50" height="50">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="45" height="45">
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:nabilayman021@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Email" width="50" height="50">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email" width="45" height="45">
   </a>
 </p>
 
