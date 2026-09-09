@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=40&duration=2000&pause=5000&color=c9d1d9&center=true&vCenter=true&repeat=false&width=500&height=55&lines=Ayman+Alqayem" alt="Ayman Alqayem" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=40&duration=2000&pause=5000&color=c9d1d9&center=true&vCenter=true&repeat=false&width=700&height=55&lines=Hello+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Ayman+Alqayem" alt="Ayman Alqayem" />
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2500&pause=1000&color=8b949e&center=true&vCenter=true&width=550&height=25&repeat=true&lines=Software+Engineer+%C2%B7+Backend+Developer+%C2%B7+NOC+Engineer" alt="Subtitle" />
 
