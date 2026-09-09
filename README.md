@@ -4,19 +4,6 @@
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2500&pause=1000&color=8b949e&center=true&vCenter=true&width=550&height=25&repeat=true&lines=Software+Engineer+%C2%B7+Backend+Developer+%C2%B7+NOC+Engineer" alt="Subtitle" />
 
-<br/>
-
-<p>
-  <a href="https://ayman-alqayem.me/" target="_blank">
-    <img src="https://img.icons8.com/color/48/portfolio.png" alt="Portfolio" width="40" height="40">
-  </a>
-  <a href="https://www.linkedin.com/in/ayman-alqayem-9012a232a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40">
-  </a>
-  <a href="mailto:nabilayman021@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Email" width="40" height="40">
-  </a>
-</p>
 
 </div>
 
