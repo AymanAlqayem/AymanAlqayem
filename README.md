@@ -25,7 +25,7 @@ On the engineering side, I build scalable REST APIs, apply clean architecture pr
 >
 > Ensuring continuous availability of critical banking services across a distributed multi-branch network. Responsible for real-time monitoring of servers, ATM networks, and core banking applications — identifying anomalies and resolving incidents before they impact operations. Lead root-cause analysis on system and connectivity failures under strict SLAs, coordinate cross-team escalations during outages, and build standardized runbooks that have improved team response consistency.
 >
-> `Aug 2025 – Present`
+> `Aug 2026 – Present`
 >
 > ---
 >
